@@ -1,0 +1,7 @@
+id = "shadesmear"
+name = "ShadeSmear"
+schema_version = 1
+version = "0.1.0"
+authors = ["Kyle Giammarco <kyle@giammar.co>"]
+description = ""
+repository = "https://github.com/HiRoS-neko/shadesmear-zed"
